@@ -1,0 +1,15 @@
+{
+  "name": "MRT Singapore",
+  "version": "1.0.0",
+  "description": "A map of the Mass Rapid Transit system in Singapore",
+  "launch_path": "/index.html",
+  "orientation": "landscape",
+  "icons": {
+    "120": "/logo.png"
+  },
+  "developer": {
+    "name": "Nick Desaulniers",
+    "url": "https://nickdesaulniers.github.io"
+  },
+  "type": "web"
+}
