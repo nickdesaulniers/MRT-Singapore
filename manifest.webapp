@@ -5,7 +5,7 @@
   "launch_path": "/index.html",
   "orientation": "landscape",
   "icons": {
-    "120": "/logo.png"
+    "128": "/logo.png"
   },
   "developer": {
     "name": "Nick Desaulniers",
